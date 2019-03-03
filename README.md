@@ -1,4 +1,5 @@
 # WangWebBackend
+[![CircleCI](https://circleci.com/gh/MartiniChauchat/WangWebBackend/tree/master.svg?style=svg)](https://circleci.com/gh/MartiniChauchat/WangWebBackend/tree/master)
 
 ## Target Features:
 - This Server should allow the owner (LaoWang) to grant acess to edit his profile
